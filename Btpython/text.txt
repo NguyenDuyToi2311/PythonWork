@@ -1,0 +1,18 @@
+type                    Định dạng                                           Ví dụ
+s                       Kiểu chuổi                                          {:s}
+b                       Kiểu số nhị phân                                    {:b}
+c                       Kiểu ký tự số                                       {:c}
+d                       Kiểu số thập phân                                   {:d}
+o                       Kiểu số bát phân                                    {:o}
+x                       Kiểu số thập lục phân                               {:x}
+X                       Kiểu số thập lục phân                               {:X}
+n                       Kiểu số nguyên                                      {:n}
+e                       Kiểu mũ                                             {:e}
+E                       Kiểu mũ                                             {:E}
+f                       Kiểu thập phân cố định                              {:f}
+F                       Kiểu thập phân cố định                              {:F}
+g                       Kiểu làm tròn số                                    {:g}
+G                       Kiểu làm tròn số                                    {:G}
+%                       Kiểu phần                                           {:%}
+
+
